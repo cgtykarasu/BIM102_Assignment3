@@ -1,6 +1,6 @@
 #Project Name: Homework3
 
-[show the PDF file](https://nbviewer.org/github/cgtykarasu/BIM102_Assignment3/blob/9fe14c78081eef57b9362d83311f5092421135d9/Hw3.pdf "Google's Homepage")
+[show the PDF file](https://github.com/cgtykarasu/BIM102_Assignment3/blob/bf9e8c9130e9e9ea642b7abfd66e03dd12de2e96/Hw3.pdf "PDF")
 
 
 ---
